@@ -188,6 +188,18 @@ h3 {
     padding: 22px 0;
 }
 
+#footer-top-bg {
+    background: #3cc3b5;
+}
+
+#footer-top {
+    justify-content: space-between;
+}
+
+
+
+
+
 @media (max-width: 1025px) {
   #header-top {
     padding: 15px;
